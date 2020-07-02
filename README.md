@@ -5,7 +5,7 @@ Install [Node.js](https://nodejs.org/).
 
 Place the contents of this repository in a suitable directory
 
-In a console, navigate to that directory, and run the command `npm install`, in order to download sqlite3.
+In a console, navigate to that directory, and run the command `npm install`, in order to download sqlite3. (Some errors at this step can be resolved by installing [Node.js v9.11.1](https://nodejs.org/download/release/v9.11.1/).)
 
 Download a game database from [Playtak](https://www.playtak.com/games), and place it in the same directory.
 
